@@ -81,4 +81,6 @@ Lora是从C站与B站上了解到的，只需任务几张图即可制作专属�
   
 如果对你有用，欢迎star、投币支持~
   
-![可否来杯瑞幸支持下？:P](./images/qrcode.png)
+<img src="./images/qrcode.jpg" width="300" alt="可否来杯瑞幸支持下？:P" align="center">
+  
+<span>可否来杯瑞幸支持下？:P</span>
